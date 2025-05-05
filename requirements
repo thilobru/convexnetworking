@@ -1,0 +1,5 @@
+tensorflow==2.12 # Based on networkExperiments.ipynb
+keras==2.12 # Based on networkExperiments.ipynb
+numpy # Used in multiple files
+pandas # Used in convexgating files and networkExperiments.ipynb
+matplotlib # Used in networkExperiments.ipynb and convexgating/plotting.py
